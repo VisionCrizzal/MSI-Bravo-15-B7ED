@@ -49,6 +49,6 @@ https://github.com/Sparronator9999/YAMDCC
 
 13.Repaste the thermal paste,find a laptop stand or laptop cooling pad (Recommend)
 
-
+Note: For step 2,3,4,8 if you reinstall or update (just in case), you have to repeat the all the step again.
 
 Will update more soon.
