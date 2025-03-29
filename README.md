@@ -35,4 +35,20 @@ https://nvidia.custhelp.com/app/answers/detail/a_id/5157/~/after-updating-to-nvi
 
 Go to Registry Editor, ctrl f the "EnableUlps" and set to " 0 "
 
+-Optional:
+
+9.If you reinstall Windows, you can install Win 10 iot LTSC or if you want Win 11 install Win 11 23H2 Enterprise or Win 11 iot LTSC
+
+10.Using Chris Titus Tech's Windows Utility
+
+11.Update BIOS (not recommend,really), reset BIOS (just in case)
+
+12.If you don't want use MSI Center, using YAMDCC (Yet Another MSI (Dragon) center Clone) instead 
+
+https://github.com/Sparronator9999/YAMDCC
+
+13.Repaste the thermal paste,find a laptop stand or laptop cooling pad (Recommend)
+
+
+
 Will update more soon.
