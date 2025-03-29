@@ -11,7 +11,7 @@ https://download.msi.com/nb_drivers/vga/AMD_VGA_31.0.22056.8001_31.0.22056.8001_
 
 https://github.com/cbk0313/Radeon-DX-Configurator
 
-Download it,open config and choose "Set regular DX11"
+Download it,open the app and choose "Set regular DX11"
 
 3.Turn On Shader Cache
 
