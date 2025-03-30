@@ -3,6 +3,11 @@ Optimize the "Multiple-Serious-Issue" Bravo 15 B7ED
 
 Vietnamese language: coming soon
 
+> [!IMPORTANT]
+> I won't responsible if you make any damage on your device while doing every step below.If you point the finger at me for messing up your device, I will laugh at you(really)
+
+## Recommend
+
 1.For AMD cpu and gpu driver, recommend using the one that MSI provided in MSI webside
 
 https://download.msi.com/nb_drivers/vga/AMD_VGA_31.0.22056.8001_31.0.22056.8001_0xe1b39912.zip
@@ -35,7 +40,7 @@ https://nvidia.custhelp.com/app/answers/detail/a_id/5157/~/after-updating-to-nvi
 
 Go to Registry Editor, ctrl f the "EnableUlps" and set to " 0 "
 
--Optional:
+## Optional
 
 9.If you reinstall Windows, you can install Win 10 iot LTSC or if you want Win 11 install Win 11 23H2 Enterprise or Win 11 iot LTSC
 
@@ -49,6 +54,6 @@ https://github.com/Sparronator9999/YAMDCC
 
 13.Repaste the thermal paste,find a laptop stand or laptop cooling pad (Recommend)
 
-Note: For step 2,3,4,8 if you reinstall or update (just in case), you have to repeat the all the step again.
+Note: For step 2,3,4,8 if you reinstall or update AMD driver (just in case), you have to repeat the all the step again.
 
 Will update more soon.
