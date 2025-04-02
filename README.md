@@ -22,6 +22,8 @@ Download it,open the app and choose "Set regular DX11"
 
 Go to "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000\UMD" in Registry Editor, find Shader cache and set value from 31 to 32
 
+Update: In new AMD driver,shader cache is already turn on.
+
 4.Disable Multi-plane Overlay (MPO)
 
 "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm" and create a DWORD32 VALUE called "OverlayTestMode" and set the value to 5.
