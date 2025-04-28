@@ -12,6 +12,8 @@ Vietnamese language: coming soon
 
 https://download.msi.com/nb_drivers/vga/AMD_VGA_31.0.22056.8001_31.0.22056.8001_0xe1b39912.zip
 
+If you want use the 3rd party driver,recomend use this:https://rdn-id.com/#compat
+
 2.Disable DXNAVI:
 
 https://github.com/cbk0313/Radeon-DX-Configurator
@@ -61,4 +63,3 @@ Note: For step 2,3,4,8 if you reinstall or update AMD driver (just in case), you
 Will update more soon.
 
 
-https://rdn-id.com/#compat
