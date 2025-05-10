@@ -42,7 +42,7 @@ https://nvidia.custhelp.com/app/answers/detail/a_id/5157/~/after-updating-to-nvi
 
 8.Disable ULPS 
 
-Go to Registry Editor, ctrl f the "EnableUlps" and set to " 0 "
+Go to Registry Editor, ctrl f the "EnableUlps" and set EnableUlps and EnableUlps_NA (both gpu) to " 0 "
 
 ## Optional
 
