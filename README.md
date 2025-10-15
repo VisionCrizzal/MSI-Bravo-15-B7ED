@@ -8,11 +8,27 @@ Vietnamese language: coming soon
 
 ## Recommend
 
-1.For AMD cpu and gpu driver, recommend using the one that MSI provided in MSI webside
+1.For AMD cpu and gpu driver,you have 3 option:
+
+1.1:Using the one that MSI provided in MSI webside:
 
 https://download.msi.com/nb_drivers/vga/AMD_VGA_31.0.22056.8001_31.0.22056.8001_0xe1b39912.zip
 
-If you want use the 3rd party driver,recomend use this:https://rdn-id.com/#compat
+Pros:Most stable.
+
+Cons:Cause some bug in game with directx12 mode (expecially game with shader cache),driver ver is kinda old(23.xx)
+
+1.2:If you want use the 3rd party driver,recomend use this:https://rdn-id.com/#compat
+
+Pros:fully customizable driver from basic to advandce
+
+Cons: kinda ustable,driver version is old (25.10)
+
+1.3:Using offical driver from AMD but version 24.12.1
+
+Pros:More stable than the latest driver version from AMD,this driver ver is still new
+
+Cons:Tell me.....
 
 2.Disable DXNAVI:
 
